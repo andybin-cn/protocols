@@ -11,5 +11,5 @@
 4. 数据备份和恢复功能，方便在登录了同一个Apple ID的多台设备间进行数据同步
 
 ## 联系方式
-邮件地址: reciprocityApp@163.com
-或者直接在此仓库下提交issues
+* 邮件地址: reciprocityApp@163.com
+* 或者直接在此仓库下[提交issues](https://github.com/jim-binea/protocols/issues/new)
